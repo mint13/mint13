@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/mint13/mint13/master/name.svg" alt="Mint Medillo" />
+  <img src="https://raw.githubusercontent.com/mint13/mint13/master/fullname.svg" alt="Mint Medillo" />
 </h1>
 
-## Hey! 👋
+## Hello there! 👋
 I'm Mint, a passionate Fullstack Engineer from Philippines.
 
 - 💻 Fullstack Engineer at [Poplar Homes](https://www.poplarhomes.com/)
