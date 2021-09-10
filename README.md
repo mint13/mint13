@@ -16,6 +16,7 @@ I'm Mint, a passionate Fullstack Engineer from Philippines.
 - 📀 MySQL, SQL, Mongo
 
 ## Contact
+- [mint-medillo](https://www.linkedin.com/in/mint-medillo-455210b9/) on LinkedIn
 - [@_mintm13](https://twitter.com/_mintm13) on Twitter
 - [@_mintm13](https://www.instagram.com/_mintm13/) on Instagram
 - [mintm13#3856](#) on Discord
