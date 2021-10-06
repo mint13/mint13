@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/mint13/mint13/master/fullname.svg" alt="Mint Medillo" />
+  <img src="https://raw.githubusercontent.com/mint13/mint13/main/fullname.svg" alt="Mint Medillo" />
 </h1>
 
 ## Hello there! 👋
