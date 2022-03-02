@@ -5,7 +5,7 @@
 ## Hello there! 👋
 I'm Mint, a passionate Fullstack Engineer from Philippines.
 
-- 💻 Fullstack Engineer at [Poplar Homes](https://www.poplarhomes.com/)
+- 💻 Fullstack Engineer
 
 - 👥 Core team member at [Wordcamp Davao](https://davao.wordcamp.org/)
 
