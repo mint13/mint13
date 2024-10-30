@@ -16,7 +16,9 @@ I'm Mint, a passionate Fullstack Engineer from Philippines.
 - 📀 MySQL, SQL, Mongo
 
 ## Stats
-![Mint's github stats](https://github-readme-stats.vercel.app/api?username=mint13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![mint13's Stats](https://github-readme-stats.vercel.app/api?username=mint13&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![mint13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mint13&theme=vue-dark&hide_border=true)
+![mint13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mint13&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Contact
 - [mint-medillo](https://www.linkedin.com/in/mint-medillo/) on LinkedIn
