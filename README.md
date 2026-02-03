@@ -17,6 +17,4 @@ I'm Mint, a passionate Fullstack Engineer from Philippines.
 
 ## Contact
 - [mint-medillo](https://www.linkedin.com/in/mint-medillo/) on LinkedIn
-- [@_mintm13](https://twitter.com/_mintm13) on Twitter
-- [@_mintm13](https://www.instagram.com/_mintm13/) on Instagram
 - [mintm13#3856](#) on Discord
